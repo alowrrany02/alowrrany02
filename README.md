@@ -12,7 +12,7 @@ Estou sempre buscando aprender mais e aprimorar minhas habilidades nessa área! 
   
 #
 
-<img align="center" alt="" height="190px" src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZxZG5neWR6cW1oamN1OXJsaTh2bXg1M3dhanh3aWE0M3QxZTM2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)">
+<img align="center" alt="" height="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2picXVxdTB4cWNkN3hwN3h2dGFweWppdWQ4MXV6cnNxOHlseWhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
