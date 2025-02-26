@@ -14,7 +14,7 @@ Estou sempre buscando aprender mais e aprimorar minhas habilidades nessa área! 
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="center" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
