@@ -8,8 +8,13 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonada por desenvolvimento front-end, onde posso dar vida às ideias e criar interfaces que encantam os usuários.
+
+Também atuo como desenvolvedora full stack quando necessário, o que me permite ter uma visão mais ampla dos projetos em que trabalho.
+
+Estou sempre buscando aprender mais e aprimorar minhas habilidades nessa área! Acredito que a tecnologia deve ser acessível e intuitiva, e estou comprometida em criar experiências web que não apenas funcionem bem, mas que também sejam agradáveis de usar.
+
+Vamos construir algo incrível juntos! 
   
 #
 
