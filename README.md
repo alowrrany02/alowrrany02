@@ -4,7 +4,7 @@
   </a>
 </div>
 
-#
+
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonada por desenvolvimento front-end, onde posso dar vida às ideias e criar interfaces que encantam os usuários.
 Também atuo como desenvolvedora full stack quando necessário, o que me permite ter uma visão mais ampla dos projetos em que trabalho.
