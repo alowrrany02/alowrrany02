@@ -8,7 +8,7 @@
 Também atuo como desenvolvedora full stack quando necessário, o que me permite ter uma visão mais ampla dos projetos em que trabalho.
 Estou sempre buscando aprender mais e aprimorar minhas habilidades nessa área! Acredito que a tecnologia deve ser acessível e intuitiva, e estou comprometida em criar experiências web que não apenas funcionem bem, mas que também sejam agradáveis de usar.
 
-###
+##
  
 <img align="right" alt="" height="190px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2picXVxdTB4cWNkN3hwN3h2dGFweWppdWQ4MXV6cnNxOHlseWhpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
